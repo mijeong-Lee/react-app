@@ -1,0 +1,5 @@
+/* 파일 명칭은 자유지만 .module.css는 필수 */
+.title {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 18px;
+}

@@ -1,0 +1,5 @@
+/* 파일 명칭은 자유지만 .module.css는 필수 */
+.btn {
+  color: white;
+  background-color: tomato;
+}
